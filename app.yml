@@ -1,8 +1,8 @@
 application: robychen
 runtime: python
-version: 4
+version: 5
 api_version: 1
 
 handlers:
 - url: .*
-  script: angular_flask/controllers.py
+  script: angular_flask.app
