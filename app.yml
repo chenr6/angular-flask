@@ -1,0 +1,8 @@
+application: robychen
+runtime: python
+version: 3
+api_version: 1
+
+handlers:
+- url: .*
+  script: runserver.py
