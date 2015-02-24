@@ -18,4 +18,4 @@ A template for building apps with an Angular frontend and a Flask / python backe
 5. check out your blog
 > http://localhost:5000/blog
 
-6. if you like this project, give it a star :)
+6. if you like this project, give it a star :))
